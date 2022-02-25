@@ -1,0 +1,10 @@
+.header__link_en{
+  color: #ffffff;
+  margin: 0;
+  margin-left: 18px;
+  text-decoration-line: none;
+  transition: text-decoration-line;
+}
+.header__link_en:hover{
+  text-decoration-line: underline;
+}
