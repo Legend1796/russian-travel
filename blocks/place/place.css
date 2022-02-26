@@ -6,3 +6,6 @@
   flex-wrap: wrap;
   margin-bottom: 60px;
 }
+.place:last-child{
+  margin-bottom: 0;
+}
