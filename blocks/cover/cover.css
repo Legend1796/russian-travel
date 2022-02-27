@@ -2,8 +2,26 @@
   margin: 0 auto 0;
   width: 1184px;
   height: 740px;
-  border: 1px solid yellow;
   background-position: center;
   background-size: cover;
-  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+@media screen and (max-width: 1280px) {
+  .cover {
+    width: 1024px;
+    height: 640px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .cover{
+    width: 768px;
+    height: 480px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .cover {
+    width: 320px;
+    height: 200px;
+  }
 }

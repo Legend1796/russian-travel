@@ -2,3 +2,8 @@
   margin: 0;
   margin-bottom: 26px;
 }
+@media screen and (max-width: 1024px) {
+  .place__paragraph_first{
+    margin-bottom: 25px;
+  }
+}
