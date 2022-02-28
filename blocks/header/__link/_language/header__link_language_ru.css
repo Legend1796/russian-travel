@@ -1,8 +1,8 @@
-.header__link_ru{
+.header__link_language_ru{
   color: #ffffff;
   text-decoration-line: none;
   transition: text-decoration-line;
 }
-.header__link_ru:hover{
+.header__link_language_ru:hover{
   text-decoration-line: underline;
 }
