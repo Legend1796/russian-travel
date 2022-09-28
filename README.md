@@ -15,4 +15,4 @@
 * Переписать код с использованием библиотеки React.js
 * Написать бэкенд
 
-* Ссылка проекта на GitHub https://legend1796.github.io/russian-travel/
+## Ссылка проекта на GitHub https://legend1796.github.io/russian-travel/
